@@ -1,3 +1,24 @@
-# Login e Logout com VueJS e Firebase
+# loginlogout
 
-Tela para cadastar o usuário com a senha e email após realizar o cadastro você pode fazer o login e acessar o painel adm ou a aplicação.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
